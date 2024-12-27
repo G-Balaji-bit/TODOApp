@@ -15,3 +15,4 @@ setText(e.target.value)} />
 </div>
 );
 };
+export default AddTodo;
