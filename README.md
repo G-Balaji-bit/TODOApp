@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # TODOApp
 todo application in react
 >>>>>>> 7f849beff9b8b2c674bc445f5a3b04ac027a720c
+=======
+# TODOApp
+todo application in react
+>>>>>>> cb83bc71e4b20321c0080f95ca75a6ce7e7a2da6
